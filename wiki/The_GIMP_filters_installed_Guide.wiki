@@ -87,4 +87,5 @@ MAC 用户
   * 菜单->滤镜-> plug-ins
   * 菜单->滤镜-> scripts-Fu
 
-= 备注 =    
+= 备注 = 
+GIMP中文论坛  [www.gimpbox.com/bbs GIMPBOX中文论坛]
