@@ -88,4 +88,5 @@ MAC 用户
   * 菜单->滤镜-> scripts-Fu
 
 = 备注 = 
-GIMP中文论坛  [http://www.gimpbox.com/bbs GIMPBOX中文论坛]
+# [http://www.gimpbox.com/bbs GIMPBOX中文论坛]
+#[http://www.gimpbox.com/bbs/forum-24-1.html GIMP汉化滤镜]
