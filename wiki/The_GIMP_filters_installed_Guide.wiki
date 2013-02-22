@@ -27,14 +27,57 @@ GIMP滤镜大多指以scm结尾的滤镜.另外python插件也可以看做是滤
 ===按GIMP版本分类====
 ====GIMP就2.4.7版本====
 GIMP2.4.7是gimp2.4版本系列的最后一个版本,留下这个版本是因为一些滤镜只能运行在2.4版本了.
-
-win32   username为用户名 X为盘符
 <hr /> 
+win32   username为用户名 X为盘符
+
    请将scm文件放入一下任意一个目录(请不要都放,因为一个会失效).推荐使用第一个.
 {{{
 C:\Documents and Settings\username\.gimp-2.4\scripts  
 X:\Program Files\GIMP-2.0\share\gimp\2.0\scripts   
 }}} 
+
+linux username为用户名 
+请将scm文件放入这里,建议不要放到GIMP程序的主目录scripts文件中
+{{{
+/home/username/.gimp-2.4/scripts/
+{{{
+MAC 用户
+====GIMP就2.6.12版本====
+GIMP2.6.12是gimp2.6版本系列的最后一个版本目前GAP最新版本的就适用于gimp2.6
+<hr /> 
+win32   username为用户名 X为盘符
+
+   请将scm文件放入一下任意一个目录(请不要都放,因为一个会失效).推荐使用第一个.
+{{{
+C:\Documents and Settings\username\.gimp-2.6\scripts  
+X:\Program Files\GIMP-2.0\share\gimp\2.0\scripts   
+}}} 
+
+linux username为用户名 
+请将scm文件放入这里,建议不要放到GIMP程序的主目录scripts文件中
+{{{
+/home/username/.gimp-2.6/scripts/
+{{{
+MAC 用户
+
+====GIMP就2.8.4版本====
+GIMP2.8.4是gimp2.8版本系列的最新版本,该版本还有GAP软件
+<hr /> 
+win32   username为用户名 X为盘符
+
+   请将scm文件放入一下任意一个目录(请不要都放,因为一个会失效).推荐使用第一个.
+{{{
+C:\Documents and Settings\username\.gimp-2.8\scripts  
+X:\Program Files\GIMP-2.0\share\gimp\2.0\scripts   
+}}} 
+
+linux username为用户名 
+请将scm文件放入这里,建议不要放到GIMP程序的主目录scripts文件中
+{{{
+/home/username/.gimp-2.8/scripts/
+{{{
+MAC 用户
+
 = Details =    
 
 Add your content here.  Format your content with:
