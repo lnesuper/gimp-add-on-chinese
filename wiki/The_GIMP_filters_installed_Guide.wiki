@@ -1,0 +1,14 @@
+#summary One-sentence summary of this page.
+#labels GIMP,滤镜,安装,scripts,python,py,scm,2.4,2.6,2.8,portable,便携
+
+= GIMP滤镜安装指南 <g:plusone size="medium"></g:plusone>=
+= GIMP滤镜简介 =
+GIMP滤镜大多指以scm结尾的滤镜.另外python插件也可以看做是滤镜这些插件通常以py结尾
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
