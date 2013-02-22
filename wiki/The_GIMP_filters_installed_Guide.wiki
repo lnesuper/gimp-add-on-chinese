@@ -40,7 +40,7 @@ linux username为用户名
 请将scm文件放入这里,建议不要放到GIMP程序的主目录scripts文件中
 {{{
 /home/username/.gimp-2.4/scripts/
-{{{
+}}} 
 MAC 用户
 ====GIMP就2.6.12版本====
 GIMP2.6.12是gimp2.6版本系列的最后一个版本目前GAP最新版本的就适用于gimp2.6
@@ -57,7 +57,7 @@ linux username为用户名
 请将scm文件放入这里,建议不要放到GIMP程序的主目录scripts文件中
 {{{
 /home/username/.gimp-2.6/scripts/
-{{{
+}}} 
 MAC 用户
 
 ====GIMP就2.8.4版本====
@@ -75,7 +75,7 @@ linux username为用户名
 请将scm文件放入这里,建议不要放到GIMP程序的主目录scripts文件中
 {{{
 /home/username/.gimp-2.8/scripts/
-{{{
+}}} 
 MAC 用户
 
 = Details =    
