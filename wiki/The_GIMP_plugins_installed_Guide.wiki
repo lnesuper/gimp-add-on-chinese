@@ -1,0 +1,2 @@
+#labels addon,plugins,插件
+GIMP插件安装指南
