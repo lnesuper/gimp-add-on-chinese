@@ -1,0 +1,108 @@
+# GIMP滤镜安装指南  #
+## GIMP滤镜简介 ##
+GIMP滤镜大多指以scm结尾的滤镜.另外python插件也可以看做是滤镜这些插件通常以py结尾
+
+---
+
+滤镜是一组特殊的工具，它对输入的图层或图像进行数学运算，然后返回图层或图 像被修改后的格式。GIMP 使用滤镜达到各种的效果， 下面将介绍这些效果。
+### 滤镜有许多种类： ###
+
+  * 模糊
+  * 颜色
+  * 噪音
+  * 边缘检测
+  * 加强
+  * 通用
+  * 玻璃效果
+  * 光线效果
+  * 扭曲
+  * 艺术
+  * 映射
+  * 绘制
+  * 网页
+  * 动画
+  * 组合
+## GIMP滤镜安装 ##
+### 按GIMP版本分类 ###
+
+
+&lt;hr /&gt;
+
+
+#### GIMP就2.4.7版本 ####
+GIMP2.4.7是gimp2.4版本系列的最后一个版本,留下这个版本是因为一些滤镜只能运行在2.4版本了.
+
+win32系统  注意:username为用户名 X为盘符
+
+> 请将scm文件放入一下任意一个目录(请不要都放,因为一个会失效).推荐使用第一个.
+```
+C:\Documents and Settings\username\.gimp-2.4\scripts  
+X:\Program Files\GIMP-2.0\share\gimp\2.0\scripts   
+```
+
+linux系统  注意: username为用户名
+> 请将scm文件放入这里,建议不要放到GIMP程序的主目录scripts文件中
+```
+/home/username/.gimp-2.4/scripts/
+```
+MAC 用户
+
+
+&lt;hr /&gt;
+
+
+#### GIMP就2.6.12版本 ####
+GIMP2.6.12是gimp2.6版本系列的最后一个版本目前GAP最新版本的就适用于gimp2.6
+
+win32系统  注意:   username为用户名 X为盘符
+
+> 请将scm文件放入一下任意一个目录(请不要都放,因为一个会失效).推荐使用第一个.
+```
+C:\Documents and Settings\username\.gimp-2.6\scripts  
+X:\Program Files\GIMP-2.0\share\gimp\2.0\scripts   
+```
+
+linux系统  注意: username为用户名
+> 请将scm文件放入这里,建议不要放到GIMP程序的主目录scripts文件中
+```
+/home/username/.gimp-2.6/scripts/
+```
+MAC 用户
+
+
+&lt;hr /&gt;
+
+
+#### GIMP就2.8.4版本 ####
+GIMP2.8.4是gimp2.8版本系列的最新版本,该版本还有GAP软件
+
+win32系统  注意:   username为用户名 X为盘符
+
+> 请将scm文件放入一下任意一个目录(请不要都放,因为一个会失效).推荐使用第一个.
+```
+C:\Documents and Settings\username\.gimp-2.8\scripts  
+X:\Program Files\GIMP-2.0\share\gimp\2.0\scripts   
+```
+
+linux系统  注意: username为用户名
+> 请将scm文件放入这里,建议不要放到GIMP程序的主目录scripts文件中
+```
+/home/username/.gimp-2.8/scripts/
+```
+MAC 用户
+
+
+&lt;hr /&gt;
+
+
+# GIMP滤镜的显示位置 #
+通常gimp滤镜安装后会显示在
+  * 菜单->滤镜->
+  * 菜单->颜色->
+  * 菜单->滤镜-> plug-ins
+  * 菜单->滤镜-> scripts-Fu
+
+# 备注 #
+友情链接
+  1. [GIMPBOX中文论坛](http://www.gimpbox.com/bbs)
+  1. [GIMP汉化滤镜](http://www.gimpbox.com/bbs/forum-24-1.html)
